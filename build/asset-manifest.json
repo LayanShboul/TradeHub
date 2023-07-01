@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20d30e7b.css",
+    "main.js": "/static/js/main.5431a7ef.js",
+    "static/media/homeCover.jpg": "/static/media/homeCover.d9ffb5a4526fe753a43c.jpg",
+    "static/media/kidsCover.jpg": "/static/media/kidsCover.36aceb96b99e5039be52.jpg",
+    "static/media/menCover.jpg": "/static/media/menCover.08b25f10b2f9b0be47e6.jpg",
+    "static/media/womenBlazer.jpg": "/static/media/womenBlazer.372f17f59889bee8c329.jpg",
+    "static/media/makeupCover.jpg": "/static/media/makeupCover.4789f2945847c32d4bba.jpg",
+    "static/media/petsCover.jpg": "/static/media/petsCover.426f53a149b2fc9981d7.jpg",
+    "static/media/womCover.jpg": "/static/media/womCover.ec5eeaf4e8e2aee08bb3.jpg",
+    "static/media/logo.jpg": "/static/media/logo.e9048fa75a2939c20f56.jpg",
+    "index.html": "/index.html",
+    "main.20d30e7b.css.map": "/static/css/main.20d30e7b.css.map",
+    "main.5431a7ef.js.map": "/static/js/main.5431a7ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d30e7b.css",
+    "static/js/main.5431a7ef.js"
+  ]
+}
